@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Un aula de informática</title>
+  <desc id="descripcion">Mesas con ordenadores frente a una pizarra</desc>
+  <rect width="640" height="360" fill="#f2eadf"/>
+  <rect x="70" y="35" width="500" height="135" rx="8" fill="#376b58"/>
+  <rect x="85" y="50" width="470" height="105" fill="#4d826e"/>
+  <g fill="#b78152">
+    <rect x="45" y="240" width="250" height="28" rx="5"/>
+    <rect x="345" y="240" width="250" height="28" rx="5"/>
+  </g>
+  <g fill="#475569">
+    <rect x="95" y="185" width="115" height="70" rx="5"/>
+    <rect x="430" y="185" width="115" height="70" rx="5"/>
+  </g>
+  <g fill="#b9ddf2">
+    <rect x="105" y="195" width="95" height="50"/>
+    <rect x="440" y="195" width="95" height="50"/>
+  </g>
+  <g fill="#6b4f3b">
+    <rect x="70" y="268" width="12" height="70"/>
+    <rect x="258" y="268" width="12" height="70"/>
+    <rect x="370" y="268" width="12" height="70"/>
+    <rect x="558" y="268" width="12" height="70"/>
+  </g>
+</svg>
+
