@@ -19,7 +19,7 @@ No necesitas instalar extensiones, programas adicionales ni dependencias. Solo u
 Abre una terminal y ejecuta:
 
 ```text
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/ChristianBihurriet/lenguaje-marcas1
 ```
 
 ### 2. Abre la carpeta en Visual Studio Code
